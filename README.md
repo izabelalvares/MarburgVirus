@@ -1,4 +1,4 @@
-A python matplotlib plot displaying the geographical distribution of the Marburg virus outbreaks and the Egyptian fruit bat.
+A python matplotlib plot displaying the geographical distribution of the marburg virus outbreaks and the egyptian fruit bat.
 
 Marburg Virus Case data: 
 https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease
